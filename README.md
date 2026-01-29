@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Swedha
 
-💻 Software Developer with hands-on experience in Python-based applications,  
-📊 data analysis workflows, and  
+💻 Software Developer with hands-on experience in Python-based applications  
+📊 Data analysis workflows  
 🔐 security-focused system design.
 
 Interested in building reliable software systems with a strong understanding
